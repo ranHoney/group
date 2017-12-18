@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 import Con from './components/head'
 
-import './sty/styl.css'
+import './sty/styl.css'   
 
 class App extends React.Component{
 	render(){
