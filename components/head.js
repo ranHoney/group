@@ -37,7 +37,7 @@ class Head extends React.Component{
 						<li><a>企业采购</a>|</li>
 						<li><a><span>客户服务</span><span>∨</span></a>|</li>
 						<li><a><span>网站导航</span><span>∨</span></a>|</li>
-						<li><a>手机京东</a><img src="../img/jd.png" /></li>
+						<li><a>手机京东</a><img src="https://img10.360buyimg.com/da/jfs/t7525/251/1899038567/28110/d5764256/59a51bf6Nb8e478cc.png" /></li>
 					</ul>
 				</header>
 			</div>
