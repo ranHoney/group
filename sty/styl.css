@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.boxd{
+	background: #e3e4e5;
+	
+}
+
+.uls>li{
+	float: left;
+	
+}
+.uls>li>a{
+	padding: 0 6px;
+}
+.uls>li>a>span:nth-child(1){
+	padding: 0 2px;
+}

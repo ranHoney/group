@@ -2,9 +2,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Con from './components/con'
+import Con from './components/head'
 
-import './sty/sty.css'
+import './sty/styl.css'
 
 class App extends React.Component{
 	render(){
