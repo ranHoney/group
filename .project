@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>group</name>
-	<comment>Create By HBuilder</comment>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -16,46 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1513596754849</id>
-			<name></name>
-			<type>10</type>
-			<matcher>
-				<id>org.eclipse.ui.ide.orFilterMatcher</id>
-				<arguments>
-					<matcher>
-						<id>org.eclipse.ui.ide.multiFilter</id>
-						<arguments>1.0-projectRelativePath-matches-false-false-bin</arguments>
-					</matcher>
-					<matcher>
-						<id>org.eclipse.ui.ide.multiFilter</id>
-						<arguments>1.0-projectRelativePath-matches-false-false-setting</arguments>
-					</matcher>
-				</arguments>
-			</matcher>
-		</filter>
-		<filter>
-<<<<<<< HEAD
-			<id>1513606692567</id>
-=======
-<<<<<<< HEAD
-			<id>1513604413530</id>
-=======
-			<id>1513604555448</id>
->>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
-			<name></name>
-			<type>26</type>
-			<matcher>
-				<id>org.eclipse.ui.ide.multiFilter</id>
-				<arguments>1.0-name-matches-false-false-node_modules</arguments>
-			</matcher>
-		</filter>
-		<filter>
-<<<<<<< HEAD
-			<id>1513604413532</id>
-=======
-			<id>1513604555450</id>
->>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
->>>>>>> b5cb90abf610eebb8d8187389697e16664cf2565
+			<id>1513687709845</id>
 			<name></name>
 			<type>26</type>
 			<matcher>

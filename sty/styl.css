@@ -17,7 +17,24 @@
 .uls>li>a>span:nth-child(1){
 	padding: 0 2px;
 }
+/*--左边导航样式--*/
+.lnav>li{
+	width:178px;
+	height:28px;
+	padding-left:12px;
+	line-height:28px;
+}
 
+.lnav>li>a{
+	text-decoration: none;
+	color:#fff;
+	font-size:14px;
+}
+
+.lnav>li>span{
+	color:#fff;
+}
+/*----------------*/
 <<<<<<< HEAD
 .bottomImg {
 	width: 789px;

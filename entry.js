@@ -3,6 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Con from './components/head'
+import Lnav from './components/leftnav'
 <<<<<<< HEAD
 import Personal from './components/personal'
 =======
