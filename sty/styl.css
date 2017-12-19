@@ -18,6 +18,138 @@
 	padding: 0 2px;
 }
 
+	i{
+	font-style: normal;
+}
 
-
-
+.personal{
+	width: 190px;
+	height: 480px;
+	color:#666;
+	font-size:12px;
+}
+.pert{
+	width: 160px;
+	height: 95px;
+	padding:20px 18px 0 15px;
+	border-bottom:1px solid #e6e6e6;
+}
+.pert img{
+	float: left;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	margin-right:10px;
+}
+.pert p:nth-of-type(1) span{
+	display: block;
+	height:40px;
+	float: left;
+}
+.pert p:nth-of-type(1) i{
+	display: block;
+}
+.pert p:nth-of-type(2){
+	height:40px;
+	margin-top:15px;
+	margin-top:15px;
+}
+.pert p:nth-of-type(2) span{
+	display: block;
+	margin-top:15px;
+	float: left;
+	width: 70px;
+	height: 20px;
+	border:2px solid #e01222;
+	color:#e01222;
+	text-align: center;
+	line-height: 20px;
+}
+.pert p:nth-of-type(2) span:nth-of-type(1){
+	margin-right:10px;
+}	
+.news{       
+	width: 160px;  
+	padding:7px 0 0 13px;;
+	
+}
+.news p{
+	line-height: 24px;
+}
+.news p:nth-of-type(1){
+	border-bottom:1px solid #e6e6e6;
+	line-height: 18px;
+	margin-bottom:13px;
+	color:#e6e6e6;
+}
+.news p:nth-of-type(1) span{
+	color:#333;	
+}
+.news p:nth-of-type(1) span:nth-of-type(1){
+		
+	border-bottom:2px solid #db192b;
+}
+.news p:nth-of-type(1) i{
+	float: right;
+	color:#333;	
+}
+.perb{
+	width: 190px;
+	height: 209px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+	align-content: space-between;
+	background: #e7e7e7;
+	border-top:1px solid #e6e6e6;
+}
+.perb li{
+	width: 46px;
+	height: 69px;
+	background: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.perb li span{
+	display: block;
+	width: 24px;
+	height: 22px;
+}
+.perb li:nth-of-type(1) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat 0 -89px;
+}
+.perb li:nth-of-type(2) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat 0 -45px;
+}
+.perb li:nth-of-type(3) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px -89px;
+}
+.perb li:nth-of-type(4) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -88px 0;
+}
+.perb li:nth-of-type(5) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -88px -47px;
+}
+.perb li:nth-of-type(6) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat 0 0;
+}
+.perb li:nth-of-type(7) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px -47px;
+}
+.perb li:nth-of-type(8) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -88px -89px;
+}
+.perb li:nth-of-type(9) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -130px 0;
+}
+.perb li:nth-of-type(10) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -130px -45px;
+}
+.perb li:nth-of-type(11) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -130px -89px;
+}
+.perb li:nth-of-type(12) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px 0;
+}
