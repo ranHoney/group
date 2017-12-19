@@ -18,6 +18,7 @@
 	padding: 0 2px;
 }
 
+<<<<<<< HEAD
 	i{
 	font-style: normal;
 }
@@ -153,3 +154,73 @@
 .perb li:nth-of-type(12) span{
 	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px 0;
 }
+=======
+.searchBox{
+	padding-top: 25px;
+	width: 1030px;
+	height: 115px;
+	background: #f6f6f6;
+}
+
+.searchBox .search{
+	margin-left:130px;
+}
+
+.searchBox .search input:nth-of-type(1){
+	border: none;
+	width: 498px;
+	height: 33px;
+	border: 1px solid #f10215;
+	float: left;
+}
+
+.searchBox .search input:nth-of-type(2){
+	color: #fff;
+	border: none;
+	width: 50px;
+	height: 35px;
+	background: #f10215;
+	float: left;
+}
+.searchBox .search .cart{
+	width: 188px;
+	height: 33px;
+	border: 1px solid #e3e4e5;
+	margin-left: 31px;
+	line-height: 33px;
+	color: red;
+	text-align: center;
+	font-size: 12px;
+	float: left;
+	background: #fff;
+}
+.searchBox p{
+	clear: both;
+	margin-left: 130px;
+	line-height: 31px;
+}
+
+.searchBox p span:first-child{
+	color: red;
+}
+.searchBox p span{
+	cursor: pointer;
+	margin-right: 9px;
+	font-size: 11px;
+	color: #999;
+}
+.searchBox ul li{
+	margin: 12px 15px;
+	font-size: 16px;
+	color: #555;
+	list-style: none;
+	float: left;
+	font-weight: bold;
+}
+.searchBox ul{
+	margin-left: 25px;
+}
+.searchBox img{
+	margin-left: 100px;
+}
+>>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
