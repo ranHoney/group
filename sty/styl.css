@@ -18,11 +18,216 @@
 	padding: 0 2px;
 }
 
+<<<<<<< HEAD
 .bottomImg {
 	width: 789px;
 	height: 130px;
 	float:left;
+=======
+<<<<<<< HEAD
+	i{
+	font-style: normal;
 }
 
+.personal{
+	width: 190px;
+	height: 480px;
+	color:#666;
+	font-size:12px;
+}
+.pert{
+	width: 160px;
+	height: 95px;
+	padding:20px 18px 0 15px;
+	border-bottom:1px solid #e6e6e6;
+}
+.pert img{
+	float: left;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	margin-right:10px;
+}
+.pert p:nth-of-type(1) span{
+	display: block;
+	height:40px;
+	float: left;
+}
+.pert p:nth-of-type(1) i{
+	display: block;
+}
+.pert p:nth-of-type(2){
+	height:40px;
+	margin-top:15px;
+	margin-top:15px;
+}
+.pert p:nth-of-type(2) span{
+	display: block;
+	margin-top:15px;
+	float: left;
+	width: 70px;
+	height: 20px;
+	border:2px solid #e01222;
+	color:#e01222;
+	text-align: center;
+	line-height: 20px;
+}
+.pert p:nth-of-type(2) span:nth-of-type(1){
+	margin-right:10px;
+}	
+.news{       
+	width: 160px;  
+	padding:7px 0 0 13px;;
+	
+}
+.news p{
+	line-height: 24px;
+}
+.news p:nth-of-type(1){
+	border-bottom:1px solid #e6e6e6;
+	line-height: 18px;
+	margin-bottom:13px;
+	color:#e6e6e6;
+}
+.news p:nth-of-type(1) span{
+	color:#333;	
+}
+.news p:nth-of-type(1) span:nth-of-type(1){
+		
+	border-bottom:2px solid #db192b;
+}
+.news p:nth-of-type(1) i{
+	float: right;
+	color:#333;	
+}
+.perb{
+	width: 190px;
+	height: 209px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+	align-content: space-between;
+	background: #e7e7e7;
+	border-top:1px solid #e6e6e6;
+}
+.perb li{
+	width: 46px;
+	height: 69px;
+	background: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.perb li span{
+	display: block;
+	width: 24px;
+	height: 22px;
+}
+.perb li:nth-of-type(1) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat 0 -89px;
+}
+.perb li:nth-of-type(2) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat 0 -45px;
+}
+.perb li:nth-of-type(3) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px -89px;
+}
+.perb li:nth-of-type(4) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -88px 0;
+}
+.perb li:nth-of-type(5) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -88px -47px;
+}
+.perb li:nth-of-type(6) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat 0 0;
+}
+.perb li:nth-of-type(7) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px -47px;
+}
+.perb li:nth-of-type(8) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -88px -89px;
+}
+.perb li:nth-of-type(9) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -130px 0;
+}
+.perb li:nth-of-type(10) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -130px -45px;
+}
+.perb li:nth-of-type(11) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -130px -89px;
+}
+.perb li:nth-of-type(12) span{
+	background: url("https://misc.360buyimg.com/mtd/pc/index/home/images/sprite_fs@1x.png") no-repeat -45px 0;
+}
+=======
+.searchBox{
+	padding-top: 25px;
+	width: 1030px;
+	height: 115px;
+	background: #f6f6f6;
+>>>>>>> b5cb90abf610eebb8d8187389697e16664cf2565
+}
 
+.searchBox .search{
+	margin-left:130px;
+}
 
+.searchBox .search input:nth-of-type(1){
+	border: none;
+	width: 498px;
+	height: 33px;
+	border: 1px solid #f10215;
+	float: left;
+}
+
+.searchBox .search input:nth-of-type(2){
+	color: #fff;
+	border: none;
+	width: 50px;
+	height: 35px;
+	background: #f10215;
+	float: left;
+}
+.searchBox .search .cart{
+	width: 188px;
+	height: 33px;
+	border: 1px solid #e3e4e5;
+	margin-left: 31px;
+	line-height: 33px;
+	color: red;
+	text-align: center;
+	font-size: 12px;
+	float: left;
+	background: #fff;
+}
+.searchBox p{
+	clear: both;
+	margin-left: 130px;
+	line-height: 31px;
+}
+
+.searchBox p span:first-child{
+	color: red;
+}
+.searchBox p span{
+	cursor: pointer;
+	margin-right: 9px;
+	font-size: 11px;
+	color: #999;
+}
+.searchBox ul li{
+	margin: 12px 15px;
+	font-size: 16px;
+	color: #555;
+	list-style: none;
+	float: left;
+	font-weight: bold;
+}
+.searchBox ul{
+	margin-left: 25px;
+}
+.searchBox img{
+	margin-left: 100px;
+}
+>>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c

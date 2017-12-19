@@ -34,7 +34,28 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1513606692567</id>
+=======
+<<<<<<< HEAD
+			<id>1513604413530</id>
+=======
+			<id>1513604555448</id>
+>>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-node_modules</arguments>
+			</matcher>
+		</filter>
+		<filter>
+<<<<<<< HEAD
+			<id>1513604413532</id>
+=======
+			<id>1513604555450</id>
+>>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
+>>>>>>> b5cb90abf610eebb8d8187389697e16664cf2565
 			<name></name>
 			<type>26</type>
 			<matcher>

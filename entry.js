@@ -3,6 +3,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Con from './components/head'
+<<<<<<< HEAD
+import Personal from './components/personal'
+=======
+import Search from './components/search'
+>>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
 
 import Banner from './components/banner'
 import Side from './components/side'
@@ -16,10 +21,18 @@ class App extends React.Component{
 		return(
 			<div className="app">
 				<Con/>
+<<<<<<< HEAD
 				<Banner/>
 				<Side/>
 				<Right/>
 				<BottomImg/>
+=======
+<<<<<<< HEAD
+				<Personal/>
+=======
+				<Search/>
+>>>>>>> e0f6fae8118942ba705a668c44c5345c35a41e4c
+>>>>>>> b5cb90abf610eebb8d8187389697e16664cf2565
 			</div>
 		)
 	}
