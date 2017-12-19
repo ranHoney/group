@@ -4,6 +4,11 @@ import ReactDOM from 'react-dom';
 
 import Con from './components/head'
 
+import Banner from './components/banner'
+import Side from './components/side'
+import Right from './components/right'
+import BottomImg from './components/bottomImg'
+
 import './sty/styl.css'   
 
 class App extends React.Component{
@@ -11,6 +16,10 @@ class App extends React.Component{
 		return(
 			<div className="app">
 				<Con/>
+				<Banner/>
+				<Side/>
+				<Right/>
+				<BottomImg/>
 			</div>
 		)
 	}
